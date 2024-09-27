@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\bin\Debug\net8.0\FileSystemReadAndWrite.exe
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\bin\Debug\net8.0\FileSystemReadAndWrite.deps.json
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\bin\Debug\net8.0\FileSystemReadAndWrite.runtimeconfig.json
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\bin\Debug\net8.0\FileSystemReadAndWrite.dll
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\bin\Debug\net8.0\FileSystemReadAndWrite.pdb
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\FileSystemReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\FileSystemReadAndWrite.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\FileSystemReadAndWrite.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\FileSystemReadAndWrite.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\FileSystemReadAndWrite.dll
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\refint\FileSystemReadAndWrite.dll
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\FileSystemReadAndWrite.pdb
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\FileSystemReadAndWrite.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\FileSystemPOC\FileSystemReadAndWrite\obj\Debug\net8.0\ref\FileSystemReadAndWrite.dll
